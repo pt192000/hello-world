@@ -7,7 +7,7 @@
 		"topleft": "topleft.jpg",
 	},
 	"browser_action":{
-		"default_icon": "Google_Chrome_icon_(2011).png",
+		"default_icon": "topleft.jpg",
 		"default_popup": "test.html"
 	}
 }
