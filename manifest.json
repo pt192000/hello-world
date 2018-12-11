@@ -4,7 +4,7 @@
 	"version": "1.0",
 	"description": "Just Starting",
 	"icons":{
-		"Google": "Google_Chrome_icon_(2011).png",
+		"topleft": "topleft.jpg",
 	},
 	"browser_action":{
 		"default_icon": "Google_Chrome_icon_(2011).png",
