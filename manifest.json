@@ -4,7 +4,7 @@
 	"version": "1.0",
 	"description": "Just Starting",
 	"icons":{
-		"topleft": "topleft.jpg",
+		"topleft": "topleft.jpg"
 	}
 	"browser_action":{
 		"default_icon": "topleft.jpg",
